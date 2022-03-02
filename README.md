@@ -3,7 +3,9 @@
 The C# sample code shows you how to use FFMPEG for LILIN NVR/DVR
 
 Visit the source code at https://www.dropbox.com/sh/bc018wx468gqryn/AABh3j0D9F7Nu7TfqXankJm2a?dl=0
-
+<BR>
+Visit the SDK at https://github.com/LILINOpenGitHub/NVR-DVR-H.264-playback-using-FFMpeg-in-CSharp/blob/main/HTTPNVRSDKNVR-009-1.pdf
+  
 # NVR/DVR H.264 playback video
 
 ![image](https://github.com/LILINOpenGitHub/NVR-DVR-H.264-playback-using-FFMpeg-in-CSharp/blob/main/video/nvrdvr.gif)
